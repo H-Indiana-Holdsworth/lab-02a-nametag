@@ -33,5 +33,11 @@ h1, h2 {
 }
 
 main {
-
+    font-family: 'Italianno', cursive;
+    font-size: 3rem;
+    margin-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    width: 400px;
+    text-align: center;
 }
